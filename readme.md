@@ -35,4 +35,4 @@ python3 ./cluster-performance-test.py
 ```
 </br>
 
-<img src="https://github.com/paulorochacode/Cluster-performance-test/imgs/perf-test-img.png">
+<img src="https://raw.githubusercontent.com/paulorochacode/Cluster-performance-test/main/imgs/perf-test-img.png">
