@@ -3,9 +3,9 @@
 <a>You can measure and compare yours CPUs performance</br>
 to know which one is better just running it</a>
 
-<h4>How it works?</br>
-The script print a lot of outputs on terminal that</br> 
-consumes processament of your CPU</h4>
+<h4>How it works?</h4></br>
+<a>The script print a lot of outputs on terminal that</br> 
+consumes processament of your CPU</a>
 
 <h4>Requiriments</h4>
 
