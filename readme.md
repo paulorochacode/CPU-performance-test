@@ -1,11 +1,11 @@
 <h3>Simple cpu performance test</h3>
 
 <a>You can measure and compare yours CPUs performance</br>
-to know which one is better just running it</a>
+to know which one is better just running it</a></br>
 
-<h4>How it works?</h4></br>
+<h4>How it works?</h4>
 <a>The script print a lot of outputs on terminal that</br> 
-consumes processament of your CPU</a>
+consumes processament of your CPU</a></br>
 
 <h4>Requiriments</h4>
 
